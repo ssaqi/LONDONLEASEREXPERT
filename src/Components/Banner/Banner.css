@@ -1,0 +1,36 @@
+.m{
+
+    width: 100%;
+   
+}
+
+.img2{
+
+    display: none;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .m{
+      width:auto;
+      height: 250px;
+    
+
+    }
+     
+  .img1{
+
+    display: none;
+  }
+
+    .img2{
+   
+        display:block;
+        width: auto;
+        height: 400px;;
+        background-image: url(../Assest/mb1.png);
+        
+    }
+
+}

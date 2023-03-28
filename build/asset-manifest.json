@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c460073.css",
+    "main.js": "/static/js/main.86885a24.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/banner.png": "/static/media/banner.4400cb750cd9b37dbac3.png",
+    "static/media/mb1.png": "/static/media/mb1.7f4b22216c5d8672abbd.png",
+    "static/media/img4.png": "/static/media/img4.b41cd68d328c06dc537b.png",
+    "static/media/img1.jpg": "/static/media/img1.608c6105b48be1f54d83.jpg",
+    "static/media/media.JPG": "/static/media/media.9b35070245b5c43e4b16.JPG",
+    "static/media/Email-butt-01.png": "/static/media/Email-butt-01.10003f3f34599f264c54.png",
+    "static/media/wtsap-butt-01.png": "/static/media/wtsap-butt-01.ad16acb414814595a933.png",
+    "static/media/call-butt-01.png": "/static/media/call-butt-01.201f1de679540a49dd4e.png",
+    "static/media/chat-butt-01.png": "/static/media/chat-butt-01.5e569d7ac317aacdf6bd.png",
+    "static/media/Laser-Clinic-Logo.png": "/static/media/Laser-Clinic-Logo.a27899ca6069830ade16.png",
+    "index.html": "/index.html",
+    "main.1c460073.css.map": "/static/css/main.1c460073.css.map",
+    "main.86885a24.js.map": "/static/js/main.86885a24.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c460073.css",
+    "static/js/main.86885a24.js"
+  ]
+}
